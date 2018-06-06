@@ -238,6 +238,6 @@ return [
     ],
 
     // 自定义配置
-    'appid'                  => '************',  // appId
-    'appsecret'              => '************', // appsecret
+    'appid'                  => 'wxa7005b900dc4dd5d',  // appId
+    'appsecret'              => '56c55d2b0eb540f5498f67a4492225e9', // appsecret
 ];
